@@ -1,0 +1,22 @@
+{
+  "author": "Julian Descottes",
+  "name": "ship-game",
+  "main": "./dest/index.html",
+  "description": "Ship - game",
+  "version": "0.0.1",
+  "homepage": "http://github.com/juliandescottes/ship-game",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/juliandescottes/ship-game.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "0.5.4",
+    "grunt-express": "1.0",
+    "grunt-open": "0.2.3",
+    "grunt-leading-indent": "0.1.0"
+  }
+}
